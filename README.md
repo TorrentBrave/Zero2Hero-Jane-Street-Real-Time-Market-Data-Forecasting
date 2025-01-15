@@ -24,6 +24,11 @@ Due to the interesting structure of the competition weights in the training data
 * Permutation Importance using the Random Forest
 * Is there any correlation between day 100 and day 200?
 
+# [JS | Plotting on Jane Street](https://www.kaggle.com/code/mpwolke/plotting-on-jane-street#Histogram-of-the-weight-multiplied-by-the-value-of-responder-(after-removing-the-0-weights))
+
+# [JS | Inference GBDT with lags (SingleModel)](https://www.kaggle.com/code/motono0223/js24-inference-gbdt-with-lags-singlemodel)
+
+
 # Honorable Mentions 🌟
 
 🔸 [__JS | Online retrain (POC)__](https://www.kaggle.com/code/simonedegasperis/online-retrain-poc)
