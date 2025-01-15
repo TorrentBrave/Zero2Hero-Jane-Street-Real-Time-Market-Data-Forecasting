@@ -1,12 +1,14 @@
 # [JS | Understanding The Metric: Weighted R-squared](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-weighted-r-squared)
 
-In this kernel we take a deep dive into weighted $R^2$ for the [2024 Jane Street competition](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting).
-Due to the interesting structure of the competition weights in the training data we will also learn more about the [Gamma Distribution](https://en.wikipedia.org/wiki/Gamma_distribution).
-This is the 4th notebook in a series on Kaggle competition metrics. 
-Previous Notebooks:
-[1. RMSLE](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-rmsle)
-[2. Quadratic Weighted Kappa](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-quadratic-weighted-kappa)
-[3. Spearman's Rho](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-spearman-s-rho)
+In this kernel we take a deep dive into weighted __$R^2$__ for the [___2024 Jane Street competition___](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting).
+
+Due to the interesting structure of the competition weights in the training data we will also learn more about the [__Gamma Distribution__](https://en.wikipedia.org/wiki/Gamma_distribution).
+
+* [__RMSLE__](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-rmsle)
+
+* [__Quadratic Weighted Kappa__](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-quadratic-weighted-kappa)
+
+* [__Spearman's Rho__](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-spearman-s-rho)
 
 # Honorable Mentions 🌟
 
