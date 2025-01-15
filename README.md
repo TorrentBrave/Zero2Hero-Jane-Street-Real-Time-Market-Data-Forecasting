@@ -10,6 +10,22 @@ Due to the interesting structure of the competition weights in the training data
 
 * [__Spearman's Rho__](https://www.kaggle.com/code/carlolepelaars/understanding-the-metric-spearman-s-rho)
 
+# [JS | Day 0 EDA and feature importance](https://www.kaggle.com/code/ahsuna123/jane-street-24-day-0-eda-and-feature-importance)
+
+* The train.csv file is big
+* responders
+* weight
+* Cumulative return
+* Time
+* The features.csv file
+* The first day ("day 0")
+* Are there any missing values?
+* Is there any missing data: Days 2 and 294
+* Permutation Importance using the Random Forest
+* Is there any correlation between day 100 and day 200?
+
 # Honorable Mentions 🌟
 
-🔸 [__JS | Online retrain (POC)__](https://www.kaggle.com/code/kitsuha/lb-0-483-with-lstm-vae)
+🔸 [__JS | Online retrain (POC)__](https://www.kaggle.com/code/simonedegasperis/online-retrain-poc)
+
+🔸 [__JS | Transformer__](https://www.kaggle.com/code/i2nfinit3y/jane-street-tabm-ft-transformer-inference)
