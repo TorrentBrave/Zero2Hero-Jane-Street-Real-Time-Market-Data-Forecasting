@@ -36,3 +36,5 @@ Due to the interesting structure of the competition weights in the training data
 🔸 [__JS | Transformer__](https://www.kaggle.com/code/i2nfinit3y/jane-street-tabm-ft-transformer-inference)
 
 🔸 [__JS | Reverse Engineering the Responders__](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/discussion/555562)
+
+# Practical
